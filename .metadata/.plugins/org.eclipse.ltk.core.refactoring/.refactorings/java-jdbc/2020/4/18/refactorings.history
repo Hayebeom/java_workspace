@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 elements to &apos;school-jdbc/src/com.sample.school.util&apos;&#x0D;&#x0A;- Original project: &apos;java-jdbc&apos;&#x0D;&#x0A;- Destination element: &apos;school-jdbc/src/com.sample.school.util&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     com.sample.bookstore.util.QueryUtil.java&#x0D;&#x0A;     com.sample.bookstore.util.ConnectionUtil.java&#x0D;&#x0A;     com.sample.bookstore.util.KeyboardUtil.java" description="Copy compilation units" destination="=school-jdbc/src&lt;com.sample.school.util" element1="/src&lt;com.sample.bookstore.util{QueryUtil.java" element2="/src&lt;com.sample.bookstore.util{ConnectionUtil.java" element3="/src&lt;com.sample.bookstore.util{KeyboardUtil.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1588140977207" units="3" version="1.0"/>
+</session>
